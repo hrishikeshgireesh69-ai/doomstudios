@@ -14,7 +14,7 @@ export default function Testimonials() {
       name: 'Sarah Johnson',
       role: 'CEO, Clean & Fresh Laundry',
       location: 'London, UK',
-      image: "/dist/assets/screenshot_2026-01-03_161016.png",
+      image: "/assets/screenshot_2026-01-03_161016.png",
       text: 'Working with DoomStudios was a game-changer. They delivered a complete digital solution that streamlined our operations globally.',
       rating: 5,
     },

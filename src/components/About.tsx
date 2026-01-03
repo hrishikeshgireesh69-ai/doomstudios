@@ -85,7 +85,7 @@ export default function About() {
             <div className="relative">
               <div className="aspect-square rounded-2xl overflow-hidden border-4 border-red-600/50 shadow-2xl shadow-red-600/20">
                 <img
-                  src="https://www.shutterstock.com/image-photo/team-talented-young-indian-professionals-260nw-2288178591.jpg?auto=compress&cs=tinysrgb&w=800"
+                  src="https://photos.fife.usercontent.google.com/pw/AP1GczPiTaKv6jBdqv8wXFwOidOVevj9l6d_JNBGoh621lAbp79lNlO1_SIP=w901-h518-s-no-gm?authuser=0?auto=compress&cs=tinysrgb&w=800"
                   alt="Team collaboration"
                   className="w-full h-full object-cover"
                 />

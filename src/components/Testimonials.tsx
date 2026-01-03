@@ -46,7 +46,7 @@ export default function Testimonials() {
       name: 'Anand Krishnan',
       role: 'Owner, Kerala Auto Hub',
       location: 'Kochi, India',
-      image: '/public/images/screenshot_2026-01-03_161051.png',
+      image: 'https://i.postimg.cc/zGfh4QBB/Screenshot-2026-01-03-161051.png',
       text: 'Local team with global standards! DoomStudios built our dealership platform with advanced features that impressed even international clients.',
       rating: 5,
     },

@@ -6,7 +6,7 @@ export default function Testimonials() {
       name: 'Rajesh Kumar',
       role: 'Owner, Premium Car Wash',
       location: 'Mumbai, India',
-      image: "/assets/screenshot_2026-01-03_161000.png",
+      image: "/dist/assets/screenshot_2026-01-03_161000.png",
       text: 'DoomStudios transformed our car wash business with a stunning website and mobile app. Our bookings increased by 300% in just 3 months!',
       rating: 5,
     },

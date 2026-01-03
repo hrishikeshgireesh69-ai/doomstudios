@@ -30,7 +30,7 @@ export default function Testimonials() {
       name: 'Priya Menon',
       role: 'Founder, SparkClean Services',
       location: 'Bangalore, India',
-      image: '/public/images/screenshot_2026-01-03_161117.png',
+      image: 'https://i.postimg.cc/fTCX2sw4/Screenshot-2026-01-03-161117.png',
       text: 'Best decision we made for our startup. DoomStudios understood our vision and delivered beyond expectations. Highly recommended!',
       rating: 5,
     },

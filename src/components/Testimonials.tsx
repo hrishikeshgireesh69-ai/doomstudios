@@ -22,7 +22,7 @@ export default function Testimonials() {
       name: 'Ahmed Al-Farsi',
       role: 'Director, AutoPro Dealership',
       location: 'Dubai, UAE',
-      image: '/public/images/screenshot_2026-01-03_161038.png',
+      image: 'https://i.postimg.cc/rwp47Hm2/Screenshot-2026-01-03-161038.png',
       text: 'The admin panel and inventory management system they built is phenomenal. Professional service from Kerala to the Gulf!',
       rating: 5,
     },

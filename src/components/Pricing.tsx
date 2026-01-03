@@ -5,7 +5,7 @@ export default function Pricing() {
     {
       name: 'Basic',
       description: 'Perfect for small businesses getting started',
-      price: 'Custom',
+      price: '3000-5000 INR',
       features: [
         'Professional Business Website',
         'Responsive Design (Mobile & Desktop)',

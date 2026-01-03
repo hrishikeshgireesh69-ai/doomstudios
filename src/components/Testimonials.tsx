@@ -38,7 +38,7 @@ export default function Testimonials() {
       name: 'Michael Chen',
       role: 'Manager, Express Wash Co.',
       location: 'Singapore',
-      image: '/public/images/screenshot_2026-01-03_161105.png',
+      image: 'https://i.postimg.cc/L8sPGWXp/Screenshot-2026-01-03-161105.png',
       text: 'Incredible attention to detail and customer service. The website they built is fast, beautiful, and converts visitors into customers.',
       rating: 5,
     },

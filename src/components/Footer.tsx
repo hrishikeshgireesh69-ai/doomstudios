@@ -51,9 +51,9 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-gray-400 text-sm">
-              <li>Kannur, Kerala, India</li>
-              <li>+91 8891524208</li>
-              <li>contact@doomstudios.com</li>
+              <li>Dubai, UAE</li>
+              <li>+63 9167327740</li>
+              <li>doomstudiosofficial@gmail.com</li>
             </ul>
           </div>
         </div>
@@ -63,7 +63,7 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} DoomStudios. All rights reserved.
           </p>
           <p className="text-gray-400 text-sm flex items-center gap-2">
-            Made with <Heart size={16} className="text-red-600 fill-red-600" /> in Kannur, Kerala
+            Made with <Heart size={16} className="text-red-600 fill-red-600" /> in Dubai, UAE
           </p>
         </div>
       </div>

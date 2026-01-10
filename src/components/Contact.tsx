@@ -5,26 +5,26 @@ export default function Contact() {
     {
       icon: MapPin,
       title: 'Visit Us',
-      info: 'Kannur, Kerala, India',
+      info: 'Dubai, UAE',
       action: null,
     },
     {
       icon: Phone,
       title: 'Call Us',
-      info: '+91 8891524208',
-      action: () => window.open('tel:+918891524208'),
+      info: '+63 9167327740',
+      action: () => window.open('tel:+639167327740'),
     },
     {
       icon: Mail,
       title: 'Email Us',
       info: 'Send us an email',
-      action: () => window.open('mailto:contact@doomstudios.com?subject=Project Inquiry'),
+      action: () => window.open('mailto:doomstudiosofficial@gmail.com?subject=Project Inquiry'),
     },
     {
       icon: MessageCircle,
       title: 'WhatsApp',
       info: 'Chat with us instantly',
-      action: () => window.open('https://wa.me/918891524208?text=Hi, I would like to discuss a project with DoomStudios'),
+      action: () => window.open('https://wa.me/639167327740?text=Hi, I would like to discuss a project with DoomStudios'),
     },
   ];
 

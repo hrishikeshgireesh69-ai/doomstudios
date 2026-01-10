@@ -5,7 +5,7 @@ export default function Pricing() {
     {
       name: 'Basic',
       description: 'Perfect for small businesses getting started',
-      price: 'Contact for exact pricing',
+      price: 'Custom',
       features: [
         'Professional Business Website',
         'Responsive Design (Mobile & Desktop)',
@@ -22,7 +22,7 @@ export default function Pricing() {
     {
       name: 'Standard',
       description: 'Most popular for growing businesses',
-      price: 'Contact for exact pricing',
+      price: 'Custom',
       features: [
         'Everything in Basic',
         'Standard Mobile Application (iOS & Android)',
@@ -40,7 +40,7 @@ export default function Pricing() {
     {
       name: 'Full-Fledged',
       description: 'Complete digital ecosystem for enterprises',
-      price: 'Contact for exact pricing',
+      price: 'Custom',
       features: [
         'Everything in Standard',
         'Advanced Mobile App Features',

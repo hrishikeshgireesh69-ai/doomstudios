@@ -31,7 +31,7 @@ export default function Hero() {
 
         <p className="text-lg sm:text-xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed">
           World-class website development, mobile applications, and complete digital systems.
-          From Kannur to the world, we build premium solutions for ambitious businesses.
+          From Dubai to the world, we build premium solutions for ambitious businesses.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

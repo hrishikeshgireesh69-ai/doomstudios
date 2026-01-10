@@ -15,7 +15,7 @@ export default function About() {
     {
       icon: Globe2,
       title: 'Global Reach',
-      description: 'Serving clients from Kannur to the world, delivering excellence across 12+ countries.',
+      description: 'Serving clients from Dubai to the world, delivering excellence across 12+ countries.',
     },
     {
       icon: Award,

@@ -23,20 +23,40 @@ export default function Footer() {
           </div>
 
           <div>
-            <h4 className="text-white font-semibold mb-4">Quick Links</h4>
-            <ul className="space-y-2">
-              {['Home', 'Services', 'Pricing', 'About'].map((item) => (
-                <li key={item}>
-                  <button
-                    onClick={() => scrollToSection(item.toLowerCase())}
-                    className="text-gray-400 hover:text-red-600 transition-colors text-sm"
-                  >
-                    {item}
-                  </button>
-                </li>
-              ))}
-            </ul>
-          </div>
+  <h4 className="text-white font-semibold mb-4">Quick Links</h4>
+
+  <ul className="space-y-2 text-sm">
+    {[
+      { label: 'Home', id: 'home', type: 'scroll' },
+      { label: 'Services', id: 'services', type: 'scroll' },
+      { label: 'Pricing', id: 'pricing', type: 'scroll' },
+      { label: 'About', id: 'about', type: 'scroll' },
+      { label: 'DoomWallet', url: 'https://doomwallet.com', type: 'external' },
+    ].map((item) => (
+      <li key={item.label}>
+        {item.type === 'scroll' ? (
+          <button
+            onClick={() => scrollToSection(item.id)}
+            aria-label={`Scroll to ${item.label} section`}
+            className="text-gray-400 hover:text-red-600 transition-colors"
+          >
+            {item.label}
+          </button>
+        ) : (
+          <a
+            href={item.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-gray-400 hover:text-red-600 transition-colors"
+          >
+            {item.label}
+          </a>
+        )}
+      </li>
+    ))}
+  </ul>
+</div>
+
 
           <div>
             <h4 className="text-white font-semibold mb-4">Services</h4>

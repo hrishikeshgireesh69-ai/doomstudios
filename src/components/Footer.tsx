@@ -81,7 +81,7 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} DoomStudios. All rights reserved.
           </p>
           <p className="text-gray-400 text-sm flex items-center gap-2">
-            Made with <Heart size={16} className="text-red-600 fill-red-600" /> in Dubai, UAE
+            Made with <Heart size={16} className="text-red-600 fill-red-600" /> in India
           </p>
         </div>
       </div>

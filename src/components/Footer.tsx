@@ -71,8 +71,6 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-gray-400 text-sm">
-              <li>Dubai, UAE</li>
-              <li>+63 9167327740</li>
               <li>doomstudiosofficial@gmail.com</li>
             </ul>
           </div>
